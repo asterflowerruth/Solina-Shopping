@@ -1,0 +1,6 @@
+###########################################################################################################################
+Steps
+1.Extract a zip file in htdocs located in xampp
+2.create database name "sodb" in xampp server
+3.import sql
+4.open brower and run"http://localhost/ecommerce%20website/home.php"
